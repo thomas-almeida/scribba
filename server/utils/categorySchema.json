@@ -1,0 +1,102 @@
+[
+  {
+    "type": "category",
+    "from": "1015092",
+    "contents": {
+      "title": {
+        "content": "Squeeze Personalizado: O Brinde Perfeito para Sua Marca com Estilo e Sustentabilidade",
+        "firstBlock": "Os squeezes personalizados são a escolha ideal para quem busca unir praticidade, estilo e impacto positivo na divulgação da marca e em brindes personalizados. Seja em eventos corporativos, ações promocionais ou como presente para colaboradores e clientes, esses brindes são altamente funcionais e oferecem uma excelente oportunidade para fortalecer a identidade e gerar valor para a sua empresa."
+      },
+      "subtitles": [
+        {
+          "id": 0,
+          "content": "O que é um squeeze?",
+          "for": "text"
+        },
+        {
+          "id": 1,
+          "content": "Modelos e opções para todos os gostos e segmentos",
+          "for": "text"
+        },
+        {
+          "id": 2,
+          "content": "Transforme seu brinde em uma experiência memorável",
+          "for": "text"
+        }
+      ],
+      "paragraphs": [
+        {
+          "blocks": [
+            "Geralmente utilizado para armazenar líquidos como água, sucos ou isotônicos. Ele é projetado para ser prático e reutilizável, sendo ideal para o dia a dia, atividades físicas, viagens ou até mesmo para o ambiente de trabalho. Disponível em diferentes materiais, como plástico, alumínio ou inox, o squeeze combina funcionalidade e design, tornando-se um item indispensável para quem valoriza hidratação constante e sustentabilidade.",
+            "Com a crescente preocupação com a sustentabilidade, os squeezes personalizados se destacam como uma alternativa ecológica aos copos descartáveis, promovendo o uso consciente de recursos e reforçando o compromisso da sua marca com o meio ambiente. Disponíveis em diversos modelos, materiais e cores, eles podem ser personalizados com o logotipo ou mensagem da sua empresa, garantindo exclusividade e visibilidade em qualquer ocasião."
+          ],
+          "subtitleId": 0
+        },
+        {
+          "blocks": [
+            "Na Innovation Brindes, você encontra uma ampla variedade de squeezes personalizados, desde modelos clássicos em plástico resistente até opções premium em inox, com design moderno e acabamento sofisticado. Oferecemos tamanhos variados, tampas práticas e diferentes estilos para atender às necessidades do seu público."
+          ],
+          "subtitleId": 1
+        },
+        {
+          "blocks": [
+            "Escolher um squeeze personalizado é mais do que oferecer um presente: é criar uma conexão duradoura entre sua marca e o público. Cada vez que alguém utilizar o squeeze, sua empresa estará presente, reforçando sua mensagem e gerando reconhecimento."
+          ],
+          "subtitleId": 2
+        }
+      ],
+      "lists": [
+        {
+          "title": "Por que escolher squeezes personalizados como brinde?",
+          "content": [
+            "Alta utilidade no dia a dia: Perfeitos para academias, escritórios, viagens ou atividades ao ar livre, os squeezes são itens indispensáveis para quem busca praticidade e hidratação constante.",
+            "Personalização que destaca sua marca: Com impressão de alta qualidade, sua marca estará sempre em evidência, seja no ambiente de trabalho ou em momentos de lazer.",
+            "Sustentabilidade em foco: Ao oferecer um squeeze reutilizável, sua empresa contribui para a redução de resíduos plásticos, alinhando-se a práticas mais conscientes e valorizadas pelos consumidores.",
+            "Custo-benefício imbatível: Brindes acessíveis e com grande impacto, ideais para presentes, eventos, e ações de marketing de todos os tamanhos."
+          ],
+          "type": "unordened"
+        }
+      ],
+      "cta": {
+        "title": "Solicite agora mesmo o seu orçamento",
+        "content": "Entre em contato com a nossa equipe da Innovation Brindes e descubra como os squeezes personalizados podem transformar aumentar a autoridade da sua marca. Oferecemos personalização de alta qualidade, prazos rápidos a partir de 48 horas, confira!"
+      }
+    },
+    "blueprint": [
+      {
+        "type": "title",
+        "id": null
+      },
+      {
+        "type": "subtitle",
+        "id": 0
+      },
+      {
+        "type": "text",
+        "id": 0
+      },
+      {
+        "type": "text",
+        "id": 0
+      },
+      {
+        "type": "list",
+        "id": 0
+      },
+      {
+        "type": "subtitle",
+        "id": 1
+      },
+      {
+        "type": "text",
+        "id": 1
+      },
+      {
+        "type": "cta",
+        "id": null
+      }
+    ],
+    "audioFileName": "squeezes-personalizados.wav"
+  }
+
+]
