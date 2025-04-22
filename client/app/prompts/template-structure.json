@@ -1,0 +1,126 @@
+{
+  "type": "category",
+  "from": "{{id}}",
+  "contents": {
+    "title": {
+      "content": "{{title}}",
+      "firstBlock": "{{introduction}}"
+    },
+    "subtitles": [
+      {
+        "id": 0,
+        "content": "{{subtitle1}}",
+        "for": "text"
+      },
+      {
+        "id": 1,
+        "content": "{{subtitle2}}",
+        "for": "text"
+      },
+      {
+        "id": 2,
+        "content": "{{subtitle3}}",
+        "for": "text"
+      }
+    ],
+    "paragraphs": [
+      {
+        "blocks": [
+          "{{paragraph1}}"
+        ],
+        "subtitleId": 0
+      },
+      {
+        "blocks": [
+          "{{paragraph2}}"
+        ],
+        "subtitleId": 1
+      },
+      {
+        "blocks": [
+          "{{paragraph3}}"
+        ],
+        "subtitleId": 2
+      }
+    ],
+    "lists": [
+      {
+        "id": 0,
+        "title": "{{list1_title}}",
+        "blocks": [],
+        "content": [
+          "{{list1_item1}}",
+          "{{list1_item2}}",
+          "{{list1_item3}}",
+          "{{list1_item4}}",
+          "{{list1_item5}}",
+          "{{list1_item6}}"
+        ],
+        "type": "unordered"
+      },
+      {
+        "id": 1,
+        "title": "{{list2_title}}",
+        "blocks": [
+          "{{list2_introduction}}"
+        ],
+        "content": [
+          "{{list2_item1}}",
+          "{{list2_item2}}",
+          "{{list2_item3}}",
+          "{{list2_item4}}",
+          "{{list2_item5}}",
+          "{{list2_item6}}"
+        ],
+        "type": "unordered"
+      }
+    ],
+    "cta": {
+      "title": "{{cta_title}}",
+      "content": "{{cta_content}}"
+    }
+  },
+  "blueprint": [
+    {
+      "type": "title",
+      "id": null
+    },
+    {
+      "type": "subtitle",
+      "id": 0
+    },
+    {
+      "type": "text",
+      "id": 0
+    },
+    {
+      "type": "list",
+      "id": 0
+    },
+    {
+      "type": "list",
+      "id": 1
+    },
+    {
+      "type": "subtitle",
+      "id": 1
+    },
+    {
+      "type": "text",
+      "id": 1
+    },
+    {
+      "type": "subtitle",
+      "id": 2
+    },
+    {
+      "type": "text",
+      "id": 2
+    },
+    {
+      "type": "cta",
+      "id": null
+    }
+  ],
+  "audioFileName": "{{audio_filename}}"
+}
